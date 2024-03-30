@@ -3,5 +3,5 @@ public class Abstract1 extends Abstract2{
     public void running() {
         System.out.println("I am running in Abstract1 but defined in Abstract class Abstract2");
     }
-    int legs;
+    int legs = 5;
 }
