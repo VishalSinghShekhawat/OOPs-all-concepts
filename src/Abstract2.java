@@ -5,4 +5,5 @@ public abstract class Abstract2 implements Interface1{
     }
 
     public abstract void running();
+    int legs;
 }
